@@ -27,7 +27,7 @@ jira = JIRA(options=server, basic_auth=(adminUser, adminPassword), validate=True
 # Basic tasks:
 
 
-# Step 01 Create a new Project: DWP-infra
+# Step 01 Create a new Project: infra
 
 # Step 02 Create a new Board
 
